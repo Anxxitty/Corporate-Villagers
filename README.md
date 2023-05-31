@@ -2,6 +2,7 @@
 
 ## Description
 /!\ THIS IS A WORK IN PROGRESS AND NO RELEASE IS PLANNED ANY TIME SOON /!\\
+
 Adds Trader Villagers who will travel the world to Points of Interest where you will be able to sell them almost anything.
 Prices will be fixed depending on the demand and on what you and other people on the server have to offer!
 Try and be the richest man on your server, by building enormous factories and selling massively!
